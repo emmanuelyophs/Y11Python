@@ -1,0 +1,3 @@
+input(int("Enter two numbers"))
+if numb 1 > numb 2 
+print(numb 1, numb 2)
