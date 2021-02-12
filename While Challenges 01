@@ -1,3 +1,7 @@
-total=0  
-while != 50:
-print("the number is",number)
+number = 0
+numb1 = int(input("Enter a number"))
+while number != 50:
+  number = number + numb1
+  print ("the number is",number)
+
+
