@@ -1,3 +1,4 @@
+#Emmanuel Yassi
 number = 0
 numb1 = int(input("Enter a number"))
 while number != 50:
